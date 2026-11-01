@@ -1,0 +1,1 @@
+Place your real certificate PDF files in this folder. See README.md for filenames and editing instructions.
