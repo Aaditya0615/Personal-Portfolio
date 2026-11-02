@@ -1,35 +1,62 @@
-# Aaditya Pandhare — Advanced Data Engineer Portfolio
+👋 Personal Portfolio – Aaditya Pandhare
 
-## Run locally
-1. Extract this ZIP.
-2. Open the extracted folder in Visual Studio Code.
-3. Open `index.html`.
-4. Start Live Server (or open `index.html` in Chrome).
+Welcome to my personal portfolio! This website showcases my skills, projects, technical knowledge, and journey as an aspiring Data Engineer.
 
-## Personalize before publishing
-In `index.html`, replace:
-- `YOUR_EMAIL@example.com` with your public contact email.
-- `YOUR-LINKEDIN` with your LinkedIn profile path.
-- `YOUR-GITHUB` with your GitHub username.
-- Project repository links with the correct repository URLs.
-- Skill labels/descriptions so they accurately reflect your current ability.
+I'm Aaditya Pandhare, a Data Science student passionate about working with data, building useful solutions, and exploring new technologies.
 
-## Add your certificates
-1. Put each certificate PDF in the `certificates` folder.
-2. Use these filenames or update the matching `href` in `index.html`:
-   - `python-certificate.pdf`
-   - `data-science-certificate.pdf`
-   - `excel-certificate.pdf`
-3. Search for `CERTIFICATE 01` in `index.html` to find the certificate carousel.
-4. Edit the title, description, tags and PDF link for each slide.
-5. To add another certificate, copy one complete `<article class="cert-slide"> ... </article>` inside the `cert-track` element, then update its details and link. The carousel creates navigation dots automatically.
+🌐 Live Portfolio
 
-The certificate carousel advances every 3 seconds, has previous/next controls, and can be paused/resumed. It pauses while the visitor hovers over or focuses the certificate panel.
+🔗 Portfolio: https://aaditya-personal-portfolio.netlify.app/
 
-## Publish with GitHub Pages
-1. Create a repository named `yourusername.github.io`.
-2. Upload all files and folders, keeping the structure intact.
-3. In Settings → Pages, deploy from the `main` branch and `/ (root)`.
-4. Your site will publish at `https://yourusername.github.io`.
+👨‍💻 About Me
 
-This is a static website. The email button opens the visitor's email app; there is no backend contact form.
+- 🎓 Data Science Student at MGM College of Engineering and Technology, Navi Mumbai.
+- 💡 Interested in Data Engineering, Data Analytics, and Cloud Technologies.
+- 🚀 Passionate about learning new technologies and solving real-world problems.
+- 📊 Enjoy working with data, creating dashboards, and building projects.
+
+🛠️ Technical Skills
+
+- Programming: Python, SQL, Java
+- Data Analysis: Pandas, NumPy, Excel
+- Data Visualization: Power BI, Tableau
+- Database: MySQL, MongoDB
+- Cloud & Tools: Cloud Technologies, Git, GitHub, VS Code
+- Other Skills: Data Cleaning, Data Processing, Dashboard Development
+
+📂 Featured Projects
+
+1. Disaster Net – Offline Disaster Management App
+
+- Developed an offline disaster communication and management application.
+- Integrated Android, MongoDB, and IoT-based hardware.
+- Focused on long-distance communication during emergency situations.
+- Designed to support communication when traditional networks are unavailable.
+
+2. Customer Shopping Behaviour Analysis
+
+- Analyzed customer shopping data using Python and SQL.
+- Performed data cleaning and exploratory data analysis.
+- Identified customer purchasing patterns and insights.
+
+3. IPL Dashboard
+
+- Created an interactive IPL dashboard using Power BI.
+- Visualized team performance, player statistics, and match insights.
+- Used charts and KPIs to present meaningful information.
+
+🎯 Career Objective
+
+To start my career in Data Engineering and continuously improve my technical skills while contributing to real-world data-driven projects.
+
+📬 Connect With Me
+
+- GitHub: https://github.com/Aaditya0615
+- Portfolio: https://aaditya-personal-portfolio.netlify.app/
+- Email: aadityapandhare01@gmail.com
+
+---
+
+⭐ Thank you for visiting my portfolio!
+
+If you find my work interesting, feel free to connect with me. I'm always open to learning opportunities, internships, and collaborations.
